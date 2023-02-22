@@ -1,6 +1,7 @@
 import React from "react";
 import './Contacto.css';
 import imagenSillon from '../../imagenes/sillon-portada.jpg';
+import { Link } from "react-router-dom";
 
 
 function Contacto(){
@@ -10,7 +11,7 @@ function Contacto(){
 
           <div className='contenedor-boton-inicio'>
             <span class="material-symbols-outlined">home</span>
-            <a href='/' className='texto-boton-inicio'>Inicio</a>
+            <Link to='/' className='texto-boton-inicio'>Inicio</Link>
           </div>
 
           <div className="contenedor-portada-contactos">

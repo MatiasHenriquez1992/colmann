@@ -3,6 +3,7 @@ import './Nosotros.css';
 import imagenEdificio from '../../imagenes/COLMANN.jpg';
 import imagenFabrica from '../../imagenes/imagen-fabrica.jpg';
 import Footer from '../Footer/Footer';
+import { Link } from 'react-router-dom';
 //Animaciones
 import Zoom from 'react-reveal/Zoom';
 
@@ -13,7 +14,7 @@ function Nosotros(){
       
         <div className='contenedor-boton-inicio'>
           <span class="material-symbols-outlined">home</span>
-          <a href='/' className='texto-boton-inicio'>Inicio</a>
+          <Link to='/' className='texto-boton-inicio'>Inicio</Link>
         </div>
         <Zoom left cascade>
       <div className='contenedor-portada-nosotros'>
