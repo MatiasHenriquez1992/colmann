@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding:0;
+    }
+
+
+.contenedor-boton-inicio{
+  position: absolute;
+  width: 80px;
+  margin: 10px;
+  padding: 5px;
+  display: flex;
+  background-color: rgb(13, 19, 103);
+  border-radius: 10px;
+  box-shadow: 1px 2px 5px #000;
+}
+
+.contenedor-boton-inicio:hover{
+  background-color: rgb(99, 83, 201);
+  transition: .2s;
+  cursor: pointer;
+}
+
+.texto-boton-inicio{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.contenedor-portada-nosotros{
+  width: 100%;
+  padding: 100px 0px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: grey;
+}
+
+.texto-portada-sillones{
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  text-shadow: 2px 1px 5px #fff;
+  font-size: 17px;
+  font-family: 'Roboto Slab', serif;
+  background-color: #dfc5c517;
+  border-radius: 20px;
+}
+
+.imagen-portada-edificio{
+  min-width: 330px;
+  max-width: 500px;
+  box-shadow: -1px 1px 10px #000;
+  border-radius: 10px;
+}
+
+.imagen-portada-edificio:hover{
+  box-shadow: -1px 1px 10px #1d1e20e0;
+  transition: .2s;
+}
+
+.contenedor-fabrica{
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0px;
+}
+
+.imagen-fabrica{
+  min-width: 330px;
+  max-width: 500px;
+  box-shadow: -1px 1px 10px #000;
+  border-radius: 10px;
+}
+
+.imagen-fabrica:hover{
+  transition: .2s;
+  box-shadow: -1px 1px 10px #1d1e20e0;
+
+}
+
+.texto-fabrica{
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  text-shadow: 2px 1px 5px #fff;
+  font-size: 17px;
+  font-family: 'Roboto Slab', serif;
+}

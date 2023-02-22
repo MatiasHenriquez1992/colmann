@@ -1,0 +1,265 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.contenedor-principal{
+  width: 100%;
+}
+
+.links{
+  position: absolute;
+  list-style: none;
+  padding: 10px 0px;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+}
+
+.links a{
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  font-family: 'Roboto Slab', serif;
+  text-shadow: 2px 2px 4px #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.links a:hover{
+  color: rgb(202, 43, 43);
+  transition: .5s;
+}
+
+.contenedor-portada-principal{
+  display: flex;
+}
+
+.titulo-colman{
+  background-color: rgb(18, 95, 163);
+  width: 100%;
+  text-align: center;
+  margin-top: 200px;
+  position: absolute;
+  font-family: Anton;
+  font-size: 60px;
+  letter-spacing: 2px;
+  color: #fff;
+  text-shadow: 2px 2px 10px #000;
+}
+
+.descripcion-colman{
+  position: absolute;
+  font-family: 'Zeyada', cursive;
+  font-size: 35px;
+  width: 100%;
+  margin-top: 300px;
+  text-align: center;
+}
+
+.imagen-portada{
+  width: 100%;
+  height: 100vh;
+  object-fit:cover;
+}
+
+.colman-presentacion{
+  width: 100%;
+  margin-top: 0px 50px;
+  padding: 100px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(246, 244, 241);
+}
+
+.contenedor-textos{
+  min-width: 100px;
+  max-width: 600px;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.titulo-colmann-presentacion{
+  display: flex;
+  width: 280px;
+  align-items: center;
+
+  font-family: Roboto;
+  letter-spacing: 1px;
+  font-weight: 800;
+}
+
+.texto-presentacion-colmann{
+  font-size: 20px;
+  margin: 20px 0px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.imagen-presentacion{
+  min-width: 200px;
+  max-width: 600px;
+  box-shadow: 1px 1px 10px #4b4848;
+  border-radius: 10px;
+}
+
+.contenedor-presentacion{
+  background-color: #fff;
+  font-size: 10px;
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.texto-presentacion{
+  margin-bottom: 20px;
+}
+
+.contenedor-cards{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.card{
+  width: 150px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #fff;
+  color: #000;
+  margin: 20px;
+  box-shadow: 2px 0px 10px red;
+  
+}
+
+.card:hover{
+  transform: scale(1.1);
+  transition: .5s;
+}
+
+.logo{
+  font-size: 50px;
+  color: red;
+}
+
+.logo:hover{
+  transform: scale(1.1);
+  transition: .5s;
+}
+
+.texto-envios{
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.texto-cards{
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.contenedor-medios-de-pago{
+  width: 100%;
+  margin: 100px 0px;
+}
+
+.tarjeta-credito-logo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  color: #42aa9c;
+  margin-bottom: 30px;
+}
+
+.titulo-medios-de-pago{
+  text-align: center;
+  font-family: Roboto;
+  letter-spacing: 5px;
+  color: #42aa9c;
+}
+
+.contenedor-cuotas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  color: #42aa9c;
+}
+
+.contenedor-3cuotas{
+  margin: 10px 20px;
+  text-align: center;
+}
+
+.titulo-cuotas{
+  font-family: Roboto;
+}
+
+.texto-cuotas{
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.contenedor-variedad-productos{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+
+.imagen-acolchados{
+  min-width: 200px;
+  max-width: 800px;
+  box-shadow: 1px 1px 10px #42aa9c;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.imagen-almohadas{
+  min-width: 200px;
+  max-width: 350px;
+  box-shadow: 1px 1px 10px #42aa9c;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.imagen-toallas{
+  min-width: 200px;
+  max-width: 350px;
+  box-shadow: 1px 1px 10px #42aa9c;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.titulos-sillones-gerenciales{
+  text-align: center;
+  padding: 10px;
+  color: #000;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Pacifico;
+  letter-spacing: 2px;
+}
+
+.contenedor-articulos{
+  display: flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
+
+.titulos-sillones{
+  padding: 10px;
+  color: #000;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  font-family: Pacifico;
+  letter-spacing: 2px;
+}
