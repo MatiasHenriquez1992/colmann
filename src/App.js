@@ -8,7 +8,7 @@ import Contacto from './componentes/Contacto/Contacto';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='/' element={<IndexPage />}/>
           <Route path='/nosotros' element={<Nosotros />}/>
