@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/colmann/static/css/main.14adbac6.css",
-    "main.js": "/colmann/static/js/main.a57ae2ed.js",
+    "main.js": "/colmann/static/js/main.66718073.js",
     "static/media/portada-sillon.jpg": "/colmann/static/media/portada-sillon.9fe67e909ee9b7d2d38c.jpg",
     "static/media/imagen-footer.png": "/colmann/static/media/imagen-footer.417c47993552f60c3f9f.png",
     "static/media/imagen-fabrica.jpg": "/colmann/static/media/imagen-fabrica.4aebee591de938a1bd0e.jpg",
@@ -21,10 +21,10 @@
     "static/media/logo-instagram.png": "/colmann/static/media/logo-instagram.c641dbaae31a547d8ff3.png",
     "index.html": "/colmann/index.html",
     "main.14adbac6.css.map": "/colmann/static/css/main.14adbac6.css.map",
-    "main.a57ae2ed.js.map": "/colmann/static/js/main.a57ae2ed.js.map"
+    "main.66718073.js.map": "/colmann/static/js/main.66718073.js.map"
   },
   "entrypoints": [
     "static/css/main.14adbac6.css",
-    "static/js/main.a57ae2ed.js"
+    "static/js/main.66718073.js"
   ]
 }
