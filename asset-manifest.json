@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/colmann/static/css/main.14adbac6.css",
+    "main.js": "/colmann/static/js/main.a57ae2ed.js",
+    "static/media/portada-sillon.jpg": "/colmann/static/media/portada-sillon.9fe67e909ee9b7d2d38c.jpg",
+    "static/media/imagen-footer.png": "/colmann/static/media/imagen-footer.417c47993552f60c3f9f.png",
+    "static/media/imagen-fabrica.jpg": "/colmann/static/media/imagen-fabrica.4aebee591de938a1bd0e.jpg",
+    "static/media/COLMANN.jpg": "/colmann/static/media/COLMANN.e58f3d38d340299ff615.jpg",
+    "static/media/sillon-portada.jpg": "/colmann/static/media/sillon-portada.1febc02521148bb7cda5.jpg",
+    "static/media/acolchados.png": "/colmann/static/media/acolchados.aba1957e1e7841710f4e.png",
+    "static/media/imagen-presentacion.jpg": "/colmann/static/media/imagen-presentacion.fbc8a740853d67590bb5.jpg",
+    "static/media/almohadones.png": "/colmann/static/media/almohadones.59d5f9953d5c64078edb.png",
+    "static/media/toallas.png": "/colmann/static/media/toallas.121e42628718c7624437.png",
+    "static/media/sillon-gerencial4.jpg": "/colmann/static/media/sillon-gerencial4.3ac4eafc19717fe42a3c.jpg",
+    "static/media/sillon-gerencial1.jpg": "/colmann/static/media/sillon-gerencial1.a511515667931add74bb.jpg",
+    "static/media/sillon-hogar2.jpg": "/colmann/static/media/sillon-hogar2.122731ceee04c219075e.jpg",
+    "static/media/sillon-hogar.jpg": "/colmann/static/media/sillon-hogar.ec87a8b8bf3d76e3c82d.jpg",
+    "static/media/sillon-hogar1.jpg": "/colmann/static/media/sillon-hogar1.c9953a1ab6774b9a913f.jpg",
+    "static/media/sillon-gerencial2.jpg": "/colmann/static/media/sillon-gerencial2.04f0feb0eb0b59c4ed8d.jpg",
+    "static/media/sillon-gerencial3.jpg": "/colmann/static/media/sillon-gerencial3.c8b532362661152e1563.jpg",
+    "static/media/logo-instagram.png": "/colmann/static/media/logo-instagram.c641dbaae31a547d8ff3.png",
+    "index.html": "/colmann/index.html",
+    "main.14adbac6.css.map": "/colmann/static/css/main.14adbac6.css.map",
+    "main.a57ae2ed.js.map": "/colmann/static/js/main.a57ae2ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14adbac6.css",
+    "static/js/main.a57ae2ed.js"
+  ]
+}
