@@ -1,6 +1,7 @@
 import React from 'react';
 import '../componentes/IndexPage.css';
 import Articulos from './Articulos/Articulos';
+import { Link } from 'react-router-dom';
 
 //Imagenes
 import imagenPortada from '../imagenes/portada-sillon.jpg';
@@ -24,8 +25,8 @@ function IndexPage(){
       <div className='contenedor-portada'>
         <li className='links'>
           <Flip top>
-            <a className='enlace-nosotros' href='nosotros'>Historia</a>
-            <a className='enlace-nosotros' href='contacto'>Contacto</a>
+            <Link className='enlace-nosotros' to='/nosotros'>Historia</Link>
+            <Link className='enlace-nosotros' to='/contacto'>Contacto</Link>
           </Flip>
         </li>
         <div className='contenedor-portada-principal'>

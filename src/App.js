@@ -1,7 +1,7 @@
 import './App.css';
 import IndexPage from './componentes/IndexPage';
 import Nosotros from './componentes/Nosotros/Nosotros';
-import {BrowserRouter as Router,Routes, Route, Link} from 'react-router-dom';
+import {BrowserRouter as Router,Routes, Route} from 'react-router-dom';
 import Contacto from './componentes/Contacto/Contacto';
 
 
