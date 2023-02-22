@@ -12,9 +12,10 @@
   position: absolute;
   list-style: none;
   padding: 10px 0px;
+  display: flex;
+  justify-content: center;
   z-index: 1;
   width: 100%;
-  text-align: center;
 }
 
 .links a{
